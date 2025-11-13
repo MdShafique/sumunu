@@ -3,9 +3,9 @@
     "homeOneHero": {
       "bgImgLink": "/images/background/hero-bg.jpg",
       "imgLink": "/images/section/hero-img.jpg",
-      "title": "Edward <br /> Davis",
+      "title": "Md.Shafikul <br />Islam",
       "subTitle": "Hello, I’m",
-      "designation": "Visual Designer"
+      "designation": "Frontend Designer"
     },
     "homeTwoHero": {
       "imgAuthor": "/images/section/hero-img.jpg",
